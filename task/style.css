@@ -1,0 +1,11 @@
+.simple{
+    width: 100%;
+    background-color:chartreuse
+}
+.simple li{
+    display: inline-block;
+    width: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style-type: none;
+}    
