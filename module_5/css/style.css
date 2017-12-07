@@ -1,12 +1,11 @@
 @font-face {
     font-family: Pathway Gothic One;
-    src: url(../fonts/PathwayGothicOne-Regular.ttf);
-    
+    src: url(../fonts/PathwayGothicOne-Regular.ttf); 
 }
 
 
 body {
-    background-image: url(../img/page-bg.png);
+    background-image: url(../img/page-bg.jpg);
     background-repeat: no-repeat;
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 28px;
